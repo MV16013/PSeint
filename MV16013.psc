@@ -1,6 +1,6 @@
 //Elabore un algoritmo para calcular el total de una compra en una gasolinera,
-//donde se da descuento a sus clientes con membresÃ­a dependiendo de su tipo.
-	//Las membresÃ­as y descuentos son las siguientes:
+//donde se da descuento a sus clientes con membresía dependiendo de su tipo.
+	//Las membresías y descuentos son las siguientes:
 	//A: 10%
 	//B: 15%
 	//C: 20%
@@ -22,7 +22,7 @@ Algoritmo Ejercicio_11
 	Escribir "Ingrese el total de la compra"
 	leer TotalCompra
 	
-	Escribir "Â¿El cliente tiene membresia? (s/n) "
+	Escribir "¿El cliente tiene membresia? (s/n) "
 	Leer membresia
 
 	si membresia="s" O membresia="S" Entonces//se valida que la respuesta positiva es "s" en mayuscula y miniscula
